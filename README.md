@@ -1,2 +1,2 @@
-# xquery-working-group
-XQuery Working Group at the Vanderbilt University Library
+# Tiny Data Working Group
+Tiny Data Working Group at the Vanderbilt University Library
