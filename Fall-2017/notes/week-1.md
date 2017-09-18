@@ -31,7 +31,16 @@
   - Is an archive a DH project?
   - How big does a project have to be to ‘count’ as an intellectual contribution?
 
-Goals for next meeting on Tuesday, September 19:
-Participants: do the reading(s), check out the project(s), and come ready to discuss the data, sites, and ideas!
+#### Next Week: Scalability: Making Digital Humanities Data Modular
+- How do you work from a dissertation/article level project to something bigger and more sustainable?  
+- What does making your current work long-lasting look like/mean?  
+- How do you set priorities for a multi-part DH project?  
+- How do you keep the ‘humanities’ in ‘DH’?  
+- Is ‘digital’ critical to your project?  
+
+Reading: C.L. Borgman. 2015. [Big Data, Little Data, No Data: Scholarship in the Networked World (Chapter 7)](http://www.jstor.org/stable/j.ctt17kk8n8) - available online via the [library](http://discoverlibrary.vanderbilt.edu/primo_library/libweb/action/dlDisplay.do?docId=vanunicorn4873342&institution=VAN&bulkSize=1&dym=true&vid=VANDERBILT&highlight=true&lang=eng)  
+Project: [Cass Gilbert’s Woolworth Building  ](http://scalar.usc.edu/works/cass-gilberts-woolworth-building/index)
+
+Participants: do the reading(s), check out the project(s), and come ready to discuss the data, sites, and ideas!  
 Organizers: in addition, review participants’ goals for the semester, update website notes
 
