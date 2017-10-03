@@ -22,17 +22,18 @@ How did you collect your data and how do they relate to your research questions?
 Tools for cleaning and modelling your data
 
 ### October:
-#### 03	Digital Project Methodology
+#### 03	Bring Your Research (Data) Workshop (cont'd)
+Analyzing a curated dataset  
+Tools for cleaning and modelling your data
+
+#### 10	Digital Project Methodology, Data vs. Metadata
 How do you make explicit your methodology not just for your research, but also for your data and technological choices?  
+What does enriching your data mean for scalability and sustainability?  
 Readings: T.E. Clement. 2016. [Where is Methodology in Digital Humanities?](http://dhdebates.gc.cuny.edu/debates/text/65)  
 P. Fletcher ad A. Helmreich. 2012. [Local/Global: Mapping London’s Art Market](http://www.19thc-artworldwide.org/autumn12/fletcher-helmreich-mapping-the-london-art-market)  
 G. Hall. 2016. [Has Critical Theory Run Out of Time for Data-Driven Scholarship?](http://dhdebates.gc.cuny.edu/debates/text/14) (optional)  
-Project: [Local/Global: Mapping London’s Art Market](http://blogs.getty.edu/iris/dah_fletcher_helmreich_israel_erickson/)
-
-#### 10	Data vs. Metadata
-What does enriching your data mean for scalability and sustainability?  
-Readings: TBD  
-Project: [The Negro Traveler’s Green Book](http://library.sc.edu/digital/collections/greenbookmap.html)
+Projects: [Local/Global: Mapping London’s Art Market](http://blogs.getty.edu/iris/dah_fletcher_helmreich_israel_erickson/)  
+[The Negro Traveler’s Green Book](http://library.sc.edu/digital/collections/greenbookmap.html)
 
 #### 17	Collaborating on a DH project: Who/What/When/Where
 How does a DH project come into being?  
