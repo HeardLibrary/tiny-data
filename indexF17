@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Vanderbilt Library — Tiny Data Working Group</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/lighter.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://www.library.vanderbilt.edu"><img src="img/logo-vandy-library.png" alt="Vanderbilt Library"/></a>
+        </div> <!-- /.navbar-header -->
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#introduction" class="nav-link">Introduction</a></li>
+          
+            <li><a href="#faqs" class="nav-link">FAQs</a></li>
+            <li><a href="#schedule" class="nav-link">Schedule</a></li>
+
+
+          </ul>
+        </div> <!-- /.navbar-collapse -->
+      </div> <!-- /.container -->
+    </nav> <!-- /.navbar -->
+
+    <div id="top" class="jumbotron">
+      <div class="container">
+        <h1>Tiny Data Working Group</h1>
+        <h2>Learn about Tiny Data in the company of Digital Humanists</h2>
+        <p>We meet most Tuesdays from 12:10 to 1:00 p.m. in 800FA of the Central Library. Newcomers are always welcome! Check the <a href="#schedule">schedule</a> below for an outline of topics (or see the <a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/syllabus.md">Fall 2017 syllabus</a> for details). Also see our Github <a href="https://github.com/HeardLibrary/tiny-data/">repository</a> for code samples. Contact <a href="mailto:suellen.stringer-hye@vanderbilt.edu">Suellen Stringer-Hye</a> with any questions or see the <a href="#faqs">FAQs</a> below.</p>
+      </div> <!-- /.container -->
+    </div> <!-- /.jumbotron -->
+
+    <div class="container">
+      <h3 id="introduction" class="subhead">What will we be working on?</h3>
+      <div class="row benefits">
+        <div class="col-md-4 col-sm-6 benefit">
+          <span style="font-size:5.5em;" class="glyphicon glyphicon-book"></span>
+          <h3>Tiny Data</h3>
+          <p>What is Tiny Data and what distinguishes it from Big Data.</p>
+        </div> <!-- /.benefit -->
+
+        <div class="col-md-4 col-sm-6 benefit">
+        <span style="font-size:5.5em;" class="glyphicon glyphicon-wrench"></span>
+        <h3>Working Sessions</h3>
+        <p>"Real World" examples using data from your projects.</p>
+      </div> <!-- /.benefit -->
+
+        <div class="col-md-4 col-sm-6 benefit">
+          <span style="font-size:5.5em;" class="glyphicon glyphicon-random"></span>
+        <h3>Discussion</h3>
+        <p>How can Tiny Data help solve your current research problems?</p>
+      </div> <!-- /.benefit -->
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+  <!--   <div class="container-alternate">
+      <div class="container">
+        <h3 id="screencasts" class="subhead">Screencasts</h3>
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <div id="tour" class="carousel slide">
+              <!--
+              <ol class="carousel-indicators">
+                <li data-target="#tour" data-slide-to="0" class="active"></li>
+                <li data-target="#tour" data-slide-to="1"></li>
+                <li data-target="#tour" data-slide-to="2"></li>
+                <li data-target="#tour" data-slide-to="3"></li>
+                <li data-target="#tour" data-slide-to="4"></li>
+              </ol>
+             
+              <div class="carousel-inner">
+                <div class="item active">
+                  <div class='embed-container'>
+                    <iframe width="420" height="315" src="https://www.youtube.com/embed/XAGifYBiXMY" frameborder="0" allowfullscreen></iframe>
+                </div>-->
+                <!--
+              <a class="left carousel-control" href="#tour" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+              </a>
+              <a class="right carousel-control" href="#tour" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a> 
+            </div> <!-- #tour 
+          </div> <!-- /.col-md-12 
+        </div> <!-- /.row 
+      </div> <!-- /.container 
+    </div> <!-- /.container-alternate -->
+
+    <div class="container">
+  <h3 id="faqs" class="subhead">Frequently Asked Questions</h3>
+  <div class="row faqs">
+    <p class="col-md-4 col-sm-6">
+      <strong>What is Tiny Data?</strong><br>
+      Tiny Data is data for the qualitative analyses which characterize humanistic inquiry, the documentation of interactions with the observable world.
+    </p>
+    <p class="col-md-4 col-sm-6">
+      <strong>How does Tiny Data differ from Big Data?</strong><br>
+      Tiny Data is scaled for human-level analysis, not the predominantly computational approaches which characterize Big Data.
+    </p>
+    <p class="col-md-4 col-sm-6">
+      <strong>Why Tiny Data for the Humanities?</strong><br>
+      By quantifying qualitative observations, a Tiny Data approach allows methodological transparency in the analysis of ambiguous, deeply nuanced, and non-linear sources.
+    </p>
+
+    <p class="col-md-4 col-sm-6">
+      <strong>What if I am not a technical person?</strong><br>
+      No need to worry. Discussion is both technical and theoretical and the group participatory so anyone can join at any time!
+    </p>
+    <p class="col-md-4 col-sm-6">
+      <strong>What should I bring?</strong><br>
+      If you can, please bring a laptop with you to the sessions. If you don't have a laptop, you can always check one out from the library. We're agnostic about operating systems—Linux, OSX or Windows are all fine.
+    </p>
+    <p class="col-md-4 col-sm-6">
+      <strong>Can I join anytime?</strong><br>
+      Yes! We try to keep our sessions as modular as possible. If you need help with anything we've covered in a previous session, we'd be glad to bring you up to speed. We strive to be a friendly and welcoming group at all times.
+    </p>
+  </div> <!-- /.faqs -->
+</div> <!-- /.container -->
+
+    <!-- See http://stackoverflow.com/questions/15573844/how-to-create-a-grid-header-using-twitter-bootstrap -->
+    <div class="container-alternate">
+      <div class="container">
+        <h3 id="schedule" class="subhead">Schedule</h3>
+        <div class="row about">
+          <div class="col-md-12">
+            <table class="table table-striped table-reflow">
+              <thead class="thead-inverse">
+                <tr>
+                  <th>Date</th>
+                  <th>Location</th>
+                  <th>Topic</th>
+                  <th>Session Notes</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">12 September 2017</th>
+                  <td>800FA, Central Library</td>
+                  <td>What is Tiny Data?</td>
+                  <td><a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/notes/week-1.md">Notes</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">19 September 2017</th>
+                  <td>800FA, Central Library</td>
+                  <td>Scalability: Making Digital Humanities Data Modular</td>
+                  <td><a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/notes/week-2.md">Notes</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">26 September 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Bring Your Research (Data) Workshop I</td>
+                  <td><a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/notes/week-3.md">Notes</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">03 October 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Bring Your Research (Data) Workshop (cont'd)</td>
+                  <td><a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/notes/week-4.md">Notes</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">10 October 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Digital Project Methodology/Data, Metadata, and Why Curation Matters</td>
+                  <td><a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/notes/week-5.md">Notes</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">17 October 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>DH Project Collaboration: Who/What/When/Where/Why?</td>
+                  <td><a href="https://github.com/HeardLibrary/tiny-data/blob/gh-pages/Fall-2017/notes/week-6.md">Notes</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">24 October 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Bring Your Research (Data) Workshop II</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">31 October 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Data, User Interfaces, and Intellectual Effort</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">7 November 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Rethinking DH Project Audience and Interactions</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">14 November 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Sustainability: Making Data Wills</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">21 November 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Thanksgiving Break</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <th scope="row">28 November 2017</td>
+                  <td>800FA, Central Library</td>
+                  <td>Bring Your Research (Data) Workshop III & Concluding Thoughts</td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </div> <!-- /.col-md-10 -->
+        </div> <!-- /.row -->
+      </div> <!-- /.container -->
+    </div> <!-- /.container-alternate -->
+
+
+    <footer>
+      <div class="container clearfix">
+        <p class="pull-left">
+          CC-BY Vanderbilt University
+        </p>
+        <p class="pull-right">
+          a template from <a href="http://coverstrap.com">Coverstrap</a>
+        </p>
+      </div> <!-- /.container -->
+    </footer>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+      $(".nav-link").click(function(e) {
+        e.preventDefault();
+        var link = $(this);
+        var href = link.attr("href");
+        $("html,body").animate({scrollTop: $(href).offset().top - 80}, 500);
+        link.closest(".navbar").find(".navbar-toggle:not(.collapsed)").click();
+      });
+    </script>
+  </body>
+</html>
