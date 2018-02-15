@@ -2,7 +2,7 @@ Notes for February 14, 2018
 
 # Data Publishing  
 
-## Reources
+## Resources
 
 * Journal of Cultural Analytics	www.cultural analytics.org
 * Journal of Open Humanities Data – 
