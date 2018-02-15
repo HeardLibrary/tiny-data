@@ -1,9 +1,9 @@
 # Week 4 in Review  (2/7/18)
 
 
-# Reconciliation function in open refine
+### Reconciliation function in open refine
 
-##	What IS Reconcilitaion? aligning your data with other data. 
+	What IS Reconcilitaion? aligning your data with other data. 
 
 * csv
 * rdf
