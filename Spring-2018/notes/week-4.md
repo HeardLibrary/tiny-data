@@ -1,12 +1,12 @@
 Notes for 2/7/14
 
 
-RECONCILIATION in OPEN REFINE
+# RECONCILIATION in OPEN REFINE
 
-#	What IS Reconcilitaion? aligning your data with other data. 
+##	What IS Reconcilitaion? aligning your data with other data. 
 
-*csv
-*rdf
+* csv
+* rdf
 
 There is a list of reconcilable data sources in Open Refine. Default is Wikidata
   
