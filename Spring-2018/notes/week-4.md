@@ -1,7 +1,7 @@
 Notes for 2/7/14
 
 
-# RECONCILIATION in OPEN REFINE
+# Reconciliation function in open refine
 
 ##	What IS Reconcilitaion? aligning your data with other data. 
 
