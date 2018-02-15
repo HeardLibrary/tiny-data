@@ -1,14 +1,14 @@
 # Week 5 in Review  (2/14/18)
 
-# Data Publishing  
+## Data Publishing  
 
-## Resources
+### Resources
 
 * Journal of Cultural Analytics	www.cultural analytics.org
 * Journal of Open Humanities Data – 
 * re3data.org is Registry of Research Data Repositories. 
 
-## Where to Look for Data sets
+### Where to Look for Data sets
 	
   * Harvard’s Dataverse
   * Zenodo (subject agnostic)
