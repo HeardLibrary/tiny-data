@@ -1,4 +1,4 @@
-# Week 1 in Review
+# Week 1 in Review  (1/17/18)
 
 What are participants working on?
 
