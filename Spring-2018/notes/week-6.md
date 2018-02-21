@@ -1,3 +1,7 @@
+From Progamming Historian 
+
+https://programminghistorian.org/lessons/fetch-and-parse-data-with-openrefine
+
 # Parsing html with Open Refine
 
 1) Start OpenRefine and select Create Project
@@ -5,7 +9,7 @@
 
 * Under “Get Data From”, click Clipboard, and paste this URL into the text box:
 
-https://programminghistorian.org/assets/fetch-and-parse-data-with-openrefine/pg1105.html
+ 
 
 Add the project name “Sonnets” at the top right and click Create project. 
 
