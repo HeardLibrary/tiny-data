@@ -18,7 +18,7 @@ Add the project name “Sonnets” at the top right and click Create project.
 * On the fetch column, click on the menu arrow > edit column > Add column based on this column. 
 Give the new column the name “parse”, then click in the Expression text box.
 
-value.parseHtml().select("p")
+'' value.parseHtml().select("p") ''
 
 value.parseHtml().select("p")[0]
 
