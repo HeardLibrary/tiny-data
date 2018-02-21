@@ -55,8 +55,13 @@ value.unescape('html')
 
 Create two new columns from the parse column using these names and expressions:
 
-“number”, value.split("<br />")[0].trim()
-“first”, value.split("<br />")[1].trim()
+“number”, 
+
+value.split("<br />")[0].trim()
+
+“first”, 
+
+value.split("<br />")[1].trim()
 
 
 From the parse column, create a new column named “text”, and click in the Expression box
