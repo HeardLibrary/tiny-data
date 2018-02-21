@@ -68,6 +68,10 @@ From the parse column, create a new column named “text”, and click in the Ex
 
 forEach(value.split("<br />"), line, line.trim()).slice(1).join("\n")
 
-characters”, value.length()
+characters”, 
 
-“lines”, value.split(/\n/).length()
+value.length()
+
+“lines”, 
+
+value.split(/\n/).length()
